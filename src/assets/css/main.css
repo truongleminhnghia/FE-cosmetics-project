@@ -1,0 +1,13 @@
+.container {
+    width: 1152px;
+    margin: 0 auto;
+    max-width: calc(100% - 24px);
+}
+
+html {
+    font-size: 1rem;
+}
+
+.hover-ff9897:hover {
+    color: #ff9897;
+}

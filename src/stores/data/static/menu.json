@@ -1,0 +1,246 @@
+{
+    "data": [
+        {
+            "title": "Trang chủ",
+            "path": "/",
+            "subMenu": null
+        },
+        {
+            "title": "Giới thiệu",
+            "path": "/gioi-thieu",
+            "subMenu": null
+        },
+        {
+            "title": "Sản phẩm",
+            "path": "/san-pham",
+            "subMenu": [
+                {
+                    "subTitle": "Dưỡng da",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Mặt nạ",
+                            "path": null,
+                            "param": "mat-na"
+                        },
+                        {
+                            "titleAttribute": "Kem dưỡng",
+                            "path": null,
+                            "param": "kem-duong"
+                        },
+                        {
+                            "titleAttribute": "Kem chống nắng",
+                            "path": null,
+                            "param": "kem-chong-nang"
+                        },
+                        {
+                            "titleAttribute": "Xịt khoáng",
+                            "path": null,
+                            "param": "xit-khoang"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Làm sạch",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Sữa rửa mặt",
+                            "path": null,
+                            "param": "sua-rua-mat"
+                        },
+                        {
+                            "titleAttribute": "Dầu tẩy trắng",
+                            "path": null,
+                            "param": "dau-tay-trang"
+                        },
+                        {
+                            "titleAttribute": "Kem tẩy trang",
+                            "path": null,
+                            "param": "kem-tay-trang"
+                        },
+                        {
+                            "titleAttribute": "Nước tẩy trang",
+                            "path": null,
+                            "param": "nuoc-tay-trang"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Trang điểm nền",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Kem lót",
+                            "path": null,
+                            "param": "Kem-lot"
+                        },
+                        {
+                            "titleAttribute": "Kem tạo hiệu ứng",
+                            "path": null,
+                            "param": "kem-tao-hieu-ung"
+                        },
+                        {
+                            "titleAttribute": "Kem che khuyết điểm",
+                            "path": null,
+                            "param": "kem-che-khuyet-diem"
+                        },
+                        {
+                            "titleAttribute": "Phấn phù bột",
+                            "path": null,
+                            "param": "phan-phu-bot"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Trang điểm mắt môi",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Son thỏi",
+                            "path": null,
+                            "param": "son-thoi"
+                        },
+                        {
+                            "titleAttribute": "Son dưỡng",
+                            "path": null,
+                            "param": "son-duong"
+                        },
+                        {
+                            "titleAttribute": "Màu mắt",
+                            "path": null,
+                            "param": "mau-mat"
+                        },
+                        {
+                            "titleAttribute": "Viền mắt",
+                            "path": null,
+                            "param": "vien-mat"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Chăm sóc cơ thể",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Sữa tắm",
+                            "path": null,
+                            "param": "sua-tam"
+                        },
+                        {
+                            "titleAttribute": "Sữa dưỡng thể",
+                            "path": null,
+                            "param": "sua-duong-the"
+                        },
+                        {
+                            "titleAttribute": "Nước hoa",
+                            "path": null,
+                            "param": "nuoc-hoa"
+                        },
+                        {
+                            "titleAttribute": "Dầu gội, dầu xã",
+                            "path": null,
+                            "param": "dau-goi-dau-xa"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Dược mỹ phẩm",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Dưỡng ẫm da",
+                            "path": null,
+                            "param": "duong-am-da"
+                        },
+                        {
+                            "titleAttribute": "Dưỡng Trắng da",
+                            "path": null,
+                            "param": "duong-trang-da"
+                        },
+                        {
+                            "titleAttribute": "Chống lão hóa",
+                            "path": null,
+                            "param": "chong-lao-hoa"
+                        },
+                        {
+                            "titleAttribute": "Tẩy tế bào chết",
+                            "path": null,
+                            "param": "tay-te-bao-chet"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Sức khỏe - Làm đẹp",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Tinh dầu",
+                            "path": null,
+                            "param": "tinh-dau"
+                        },
+                        {
+                            "titleAttribute": "Nước tẩy trang",
+                            "path": null,
+                            "param": "nuoc-tay-trang"
+                        },
+                        {
+                            "titleAttribute": "Thực phẩm chức năng",
+                            "path": null,
+                            "param": "thuc-pham-chuc-nang"
+                        },
+                        {
+                            "titleAttribute": "Nước hoa",
+                            "path": null,
+                            "param": "nuoc-hoa"
+                        }
+                    ]
+                },
+                {
+                    "subTitle": "Thực phẩm chức năng",
+                    "attribute": [
+                        {
+                            "titleAttribute": "Vitamin & khoáng chất",
+                            "path": null,
+                            "param": "vitamin-khoang-chat"
+                        },
+                        {
+                            "titleAttribute": "Chống lão hóa da",
+                            "path": null,
+                            "param": "chong-lao-hoa-da"
+                        },
+                        {
+                            "titleAttribute": "Sữa dưỡng thể",
+                            "path": null,
+                            "param": "sua-duong-the"
+                        },
+                        {
+                            "titleAttribute": "Dầu tẩy trang",
+                            "path": null,
+                            "param": "dau-tay-trang"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Khuyến mãi",
+            "path": "/khuyen-mai",
+            "subMenu": [
+                {
+                    "subTitle": "Vừa ra mắt",
+                    "attribute": [],
+                    "path": "/new-sale"
+                },
+                {
+                    "subTitle": "Big sale",
+                    "attribute": [],
+                    "path": "/big-sale"
+                }
+            ]
+        },
+        {
+            "title": "Tin tức",
+            "path": "/tin-tuc",
+            "subMenu": ""
+        },
+        {
+            "title": "Liên hệ",
+            "path": "/lien-he",
+            "subMenu": ""
+        }
+    ]
+}
