@@ -8,7 +8,6 @@ import MenuData from '../../stores/data/static/menu.json'
 const Menu = () => {
     const [activeIndex, setActiveIndex] = useState(null);
     const menu = MenuData;
-    console.log("menu", menu);
 
     const handleItemClick = (index) => {
         setActiveIndex(index); // Cập nhật mục được chọn
