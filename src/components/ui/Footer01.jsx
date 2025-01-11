@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Footer01 = () => {
   return (
     <div>
-      <Row className="bg-[url('../../../public/images/bg/image.png')] object-cover bg-no-repeat
+      <Row className="bg-[url('../images/bg/image.png')] object-cover bg-no-repeat
                      w-full ">
         <div className='content'>
           <Row className='container'>
@@ -14,7 +14,7 @@ const Footer01 = () => {
               <div>
                 <div className='mb-[12px]'>
                   <a href="#" >
-                    <img src="../../../public/images/logo/logo_v2.png" alt="" className='max-w-full h-auto' />
+                    <img src="../images/logo/logo_v2.png" alt="" className='max-w-full h-auto' />
                   </a>
                 </div>
                 <div>

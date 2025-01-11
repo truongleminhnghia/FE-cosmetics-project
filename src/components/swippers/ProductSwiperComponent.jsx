@@ -44,7 +44,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>
@@ -68,7 +68,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>
@@ -93,7 +93,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>
@@ -118,7 +118,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>
@@ -143,7 +143,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>
@@ -168,7 +168,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>
@@ -193,7 +193,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>
@@ -218,7 +218,7 @@ const ProductSwiperComponent = () => {
                 >
                     <img
                         className='w-full h-[250px] object-cover'
-                        src="../../../public/images/products/image.png"
+                        src="../images/products/image.png"
                         alt=""
                     />
                     <div className='p-[12px]'>

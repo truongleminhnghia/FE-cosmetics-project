@@ -51,7 +51,7 @@ const Home = () => {
             <div className='relative h-full w-full border-solid border-[5px] border-[#ff9897]'>
               <img
                 className='w-full h-full object-cover'
-                src="../../../public/images/banners/matita-labbra-1024x538.jpg"
+                src="../images/banners/matita-labbra-1024x538.jpg"
                 alt=""
               />
               <div className='flex flex-col absolute left-[50%] translate-x-[-50%] top-[50%] translate-y-[-50%] '>
@@ -102,7 +102,7 @@ const Home = () => {
             <div className='relative h-full w-full border-solid border-[5px] border-[#ff9897]'>
               <img
                 className='w-full h-full object-cover'
-                src="../../../public/images/banners/matita-labbra-1024x538.jpg"
+                src="../images/banners/matita-labbra-1024x538.jpg"
                 alt=""
               />
               <div className='flex flex-col absolute left-[50%] translate-x-[-50%] top-[50%] translate-y-[-50%] '>

@@ -30,34 +30,34 @@ const SwiperResponsiveBreakpoints = () => {
             className="mySwiper"
         >
             <SwiperSlide>
-                <img src="../../../public/images/brands/image.png" alt="" />
+                <img src="../images/brands/image.png" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_6.webp" alt="" />
+                <img src="../images/brands/brand_6.webp" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_5.webp" alt="" />
+                <img src="../images/brands/brand_5.webp" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_4.webp" alt="" />
+                <img src="../images/brands/brand_4.webp" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_3.webp" alt="" />
+                <img src="../images/brands/brand_3.webp" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/image.png" alt="" />
+                <img src="../images/brands/image.png" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_6.webp" alt="" />
+                <img src="../images/brands/brand_6.webp" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_5.webp" alt="" />
+                <img src="../images/brands/brand_5.webp" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_4.webp" alt="" />
+                <img src="../images/brands/brand_4.webp" alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src="../../../public/images/brands/brand_3.webp" alt="" />
+                <img src="../images/brands/brand_3.webp" alt="" />
             </SwiperSlide>
         </Swiper>
     )

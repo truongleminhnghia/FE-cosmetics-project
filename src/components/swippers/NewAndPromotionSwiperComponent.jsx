@@ -44,7 +44,7 @@ const NewAndPromotionSwiperComponent = () => {
                     <div className='relative'>
                         <img
                             className='w-full h-[250px] object-cover'
-                            src="../../../public/images/news/marks-and-spencer-gift-sets.webp"
+                            src="../images/news/marks-and-spencer-gift-sets.webp"
                             alt=""
                         />
                         <div className='absolute top-[5px] left-[5px] text-white text-[12px] font-medium bg-[#ff9897] rounded-full h-[60px] w-[60px] flex flex-col justify-center items-center'>
@@ -75,7 +75,7 @@ const NewAndPromotionSwiperComponent = () => {
                     <div className='relative'>
                         <img
                             className='w-full h-[250px] object-cover'
-                            src="../../../public/images/news/marks-and-spencer-gift-sets.webp"
+                            src="../images/news/marks-and-spencer-gift-sets.webp"
                             alt=""
                         />
                         <div className='absolute top-[5px] left-[5px] text-white text-[12px] font-medium bg-[#ff9897] rounded-full h-[60px] w-[60px] flex flex-col justify-center items-center'>
@@ -106,7 +106,7 @@ const NewAndPromotionSwiperComponent = () => {
                     <div className='relative'>
                         <img
                             className='w-full h-[250px] object-cover'
-                            src="../../../public/images/news/marks-and-spencer-gift-sets.webp"
+                            src="../images/news/marks-and-spencer-gift-sets.webp"
                             alt=""
                         />
                         <div className='absolute top-[5px] left-[5px] text-white text-[12px] font-medium bg-[#ff9897] rounded-full h-[60px] w-[60px] flex flex-col justify-center items-center'>
@@ -137,7 +137,7 @@ const NewAndPromotionSwiperComponent = () => {
                     <div className='relative'>
                         <img
                             className='w-full h-[250px] object-cover'
-                            src="../../../public/images/news/marks-and-spencer-gift-sets.webp"
+                            src="../images/news/marks-and-spencer-gift-sets.webp"
                             alt=""
                         />
                         <div className='absolute top-[5px] left-[5px] text-white text-[12px] font-medium bg-[#ff9897] rounded-full h-[60px] w-[60px] flex flex-col justify-center items-center'>
@@ -168,7 +168,7 @@ const NewAndPromotionSwiperComponent = () => {
                     <div className='relative'>
                         <img
                             className='w-full h-[250px] object-cover'
-                            src="../../../public/images/news/marks-and-spencer-gift-sets.webp"
+                            src="../images/news/marks-and-spencer-gift-sets.webp"
                             alt=""
                         />
                         <div className='absolute top-[5px] left-[5px] text-white text-[12px] font-medium bg-[#ff9897] rounded-full h-[60px] w-[60px] flex flex-col justify-center items-center'>
@@ -199,7 +199,7 @@ const NewAndPromotionSwiperComponent = () => {
                     <div className='relative'>
                         <img
                             className='w-full h-[250px] object-cover'
-                            src="../../../public/images/news/marks-and-spencer-gift-sets.webp"
+                            src="../images/news/marks-and-spencer-gift-sets.webp"
                             alt=""
                         />
                         <div className='absolute top-[5px] left-[5px] text-white text-[12px] font-medium bg-[#ff9897] rounded-full h-[60px] w-[60px] flex flex-col justify-center items-center'>
