@@ -4,10 +4,29 @@
     max-width: calc(100% - 24px);
 }
 
+.content {
+    width: 100%;
+    padding: 80px 0;
+}
+
 html {
-    font-size: 1rem;
+    font-size: 62.5%;
+    /* Tương đương 10px */
 }
 
 .hover-ff9897:hover {
     color: #ff9897;
+}
+
+.clamp-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    /* Giới hạn 2 dòng */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* Hiển thị dấu ba chấm khi quá 2 dòng */
+    white-space: normal;
+    max-height: 2.4em;
 }

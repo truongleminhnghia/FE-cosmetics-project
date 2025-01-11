@@ -7,7 +7,7 @@ import { Icon } from '@iconify/react/dist/iconify.js';
 const { Search } = Input;
 const Header1 = () => {
   return (
-    <header className='bg-[#fff3f3] py-2'>
+    <header className='bg-[#fff3f3] py-7'>
       <div className="container">
         <Row className='w-full justify-between items-center'>
           <div className="logo-header">

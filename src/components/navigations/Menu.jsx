@@ -28,7 +28,7 @@ const Menu = () => {
                                     ${activeIndex === index ? "text-black font-bold" : "text-white"
                                     }`}
                             >
-                                <span className="inline-flex uppercase text-base items-center">
+                                <span className="inline-flex uppercase text-[18px] items-center">
                                     {item.title}
                                     {item.subMenu && (
                                         <Icon
@@ -48,13 +48,13 @@ const Menu = () => {
                                         <div className="mx-auto grid grid-cols-4 gap-4">
                                             {item.subMenu.map((sub, index1) => (
                                                 <div key={index1} className="w-full">
-                                                    <h2 className="text-sm font-medium text-[#ff9897] hover:text-black">
+                                                    <h2 className="text-[16px] font-medium text-[#ff9897] hover:text-black">
                                                         {sub.subTitle}
                                                     </h2>
                                                     <ul>
                                                         {sub.attribute.map((att, index2) => (
                                                             <li key={index2}>
-                                                                <Link className="block text-xs font-normal my-[8px] hover:text-[#ff9897]">
+                                                                <Link className="block text-[14px] font-normal my-[8px] hover:text-[#ff9897]">
                                                                     {att.titleAttribute}
                                                                 </Link>
                                                             </li>
