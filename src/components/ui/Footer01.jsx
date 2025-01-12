@@ -124,7 +124,7 @@ const Footer01 = () => {
       <Row className='bg-[#000]'>
         <Col span={24} className='py-3'>
           <p className='text-center container text-[#959595] text-[14px] font-normal'>© Bản quyền thuộc về 
-            <span className='text-[#ff9897] font-medium'> Cool Team font-medium</span>
+            <span className='text-[#ff9897] font-medium'> Cool Team </span>
             | Cung cấp bởi
             <span className='text-white font-medium'> NghiaTLM</span>
           </p>
