@@ -1,0 +1,433 @@
+{
+    "data": [
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        },
+        {
+            "porductName": "Kem trộn tùm luim đủ thứ",
+            "price": "120000",
+            "promotionPrice": "80000",
+            "isActive": true,
+            "images": [
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": true
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                },
+                {
+                    "imageId": "image_id_1",
+                    "imageUrl": "../images/products/image.png",
+                    "main": false
+                }
+            ]
+        }
+    ]
+}

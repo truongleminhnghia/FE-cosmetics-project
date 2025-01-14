@@ -1,16 +1,13 @@
 import React, { useRef, useState } from 'react';
-// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
-
-
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-
-import Slide from '../../assets/images/slide/image.png';
+import ImageSlide from '../../stores/data/static/slide.json'
 
 const SlideSwiper = () => {
+    const images = ImageSlide;
     return (
         <Swiper
             spaceBetween={30}
@@ -27,12 +24,11 @@ const SlideSwiper = () => {
             modules={[Autoplay, Pagination, Navigation]}
             className="mySwiper"
         >
-            <SwiperSlide>
-                <img src={Slide} alt="" className='w-full' />
-            </SwiperSlide>
-            <SwiperSlide>
-                <img src={Slide} alt="" className='w-full' />
-            </SwiperSlide>
+            {images && images.data && images.data.map((image, index) => (
+                <SwiperSlide key={index}>
+                    <img src={image.imageUrl} alt="" className='w-full' />
+                </SwiperSlide>
+            ))}
         </Swiper>
     )
 }
