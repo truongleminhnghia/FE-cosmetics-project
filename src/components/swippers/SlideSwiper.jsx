@@ -24,9 +24,9 @@ const SlideSwiper = () => {
             modules={[Autoplay, Pagination, Navigation]}
             className="mySwiper"
         >
-            {images && images.data && images.data.map((image, index) => (
-                <SwiperSlide key={index}>
-                    <img src={image.imageUrl} alt="" className='w-full' />
+            {images?.data?.map((image) => (
+                <SwiperSlide key={image.imageId}>
+                    <img src={image?.imageUrl || ''} alt="" className="w-full" />
                 </SwiperSlide>
             ))}
         </Swiper>

@@ -13,7 +13,7 @@ const Footer01 = () => {
             <Col span={8}>
               <div>
                 <div className='mb-[12px]'>
-                  <a href="#" >
+                  <a href="/" >
                     <img src="../images/logo/logo_v2.png" alt="" className='max-w-full h-auto' />
                   </a>
                 </div>

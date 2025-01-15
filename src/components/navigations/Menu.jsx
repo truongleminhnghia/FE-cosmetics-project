@@ -16,11 +16,12 @@ const Menu = () => {
         <nav className='bg-[#ff6564]'>
             <Row className='container relative'>
                 <ul className='flex'>
-                    {menu && menu.data && menu.data.map((item, index) => (
+                    {menu.data.map((item, index) => (
                         <li
-                            key={index}
+                            key={item}
                             className='group'
                             onClick={() => handleItemClick(index)}
+                            onKeyDown={handleItemClick(index)}
                         >
                             <Link
                                 to={item.path}
@@ -46,13 +47,14 @@ const Menu = () => {
                                     group-hover:block h-auto w-full top-10 z-10"
                                     >
                                         <div className="mx-auto grid grid-cols-4 gap-4">
-                                            {item.subMenu.map((sub, index1) => (
-                                                <div key={index1} className="w-full">
+                                            {item.subMenu.map((sub) => (
+                                                <div key={sub} className="w-full">
                                                     <h2 className="text-[16px] font-medium text-[#ff9897] hover:text-black">
                                                         {sub.subTitle}
                                                     </h2>
                                                     <ul>
                                                         {sub.attribute.map((att, index2) => (
+                                                            // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
                                                             <li key={index2}>
                                                                 <Link className="block text-[14px] font-normal my-[8px] hover:text-[#ff9897]">
                                                                     {att.titleAttribute}

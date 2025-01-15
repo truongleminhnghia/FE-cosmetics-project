@@ -39,14 +39,13 @@ const SwiperThreeItemComponent = () => {
             modules={[Autoplay, Pagination, Navigation]}
             className="w-full min-h-[430px]"
         >
-            {products?.data?.map((item, index) => (
-                <SwiperSlide key={index}>
+            {products?.data?.map((item) => (
+                <SwiperSlide key={item.productId}>
                     <div className="bg-white shadow-xl max-w-[250px] h-auto rounded-xl">
-                        {item.images &&
-                            item.images.map((image, imgIndex) =>
+                        {item.images.map((image) =>
                                 image.main ? (
                                     <img
-                                        key={imgIndex}
+                                        key={image.imageId}
                                         className="w-full h-[250px] object-cover"
                                         src={image.imageUrl}
                                         alt={item.porductName}

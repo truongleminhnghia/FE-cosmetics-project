@@ -41,19 +41,18 @@ const ProductSwiperComponent = () => {
             className="w-full min-h-[430px]"
         >
             {products?.data?.map((item, index) => (
-                <SwiperSlide key={index}>
+                <SwiperSlide key={item.productId}>
                     <div className="bg-white shadow-xl max-w-[250px] h-auto rounded-xl">
-                        {item.images &&
-                            item.images.map((image, imgIndex) =>
-                                image.main ? (
-                                    <img
-                                        key={imgIndex}
-                                        className="w-full h-[250px] object-cover"
-                                        src={image.imageUrl}
-                                        alt={item.porductName}
-                                    />
-                                ) : null
-                            )}
+                        {item.images.map((image) =>
+                            image.main ? (
+                                <img
+                                    key={image.imageId}
+                                    className="w-full h-[250px] object-cover"
+                                    src={image.imageUrl}
+                                    alt={item.porductName}
+                                />
+                            ) : null
+                        )}
                         <div className="p-[12px]">
                             <h2 className="text-[16px] text-black font-medium mt-3 mb-1 h-[45px] line-clamp-2">
                                 {item.porductName}
