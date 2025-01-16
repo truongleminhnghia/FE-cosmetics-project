@@ -54,7 +54,7 @@ const SwiperThreeItemComponent = () => {
                             )}
                         <div className="p-[12px]">
                             <h2 className="text-[16px] text-black font-medium mt-3 mb-1 h-[45px] line-clamp-2">
-                                {item.porductName}
+                                {item.productName}
                             </h2>
                             <p className="text-[16px] my-[12px]">
                                 <strong className="text-[#ff9897] font-medium mr-[12px]">

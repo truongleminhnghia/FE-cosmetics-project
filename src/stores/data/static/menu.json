@@ -181,11 +181,6 @@
                             "titleAttribute": "Thực phẩm chức năng",
                             "path": null,
                             "param": "thuc-pham-chuc-nang"
-                        },
-                        {
-                            "titleAttribute": "Nước hoa",
-                            "path": null,
-                            "param": "nuoc-hoa"
                         }
                     ]
                 },
@@ -235,12 +230,12 @@
         {
             "title": "Tin tức",
             "path": "/tin-tuc",
-            "subMenu": ""
+            "subMenu": null
         },
         {
             "title": "Liên hệ",
             "path": "/lien-he",
-            "subMenu": ""
+            "subMenu": null
         }
     ]
 }

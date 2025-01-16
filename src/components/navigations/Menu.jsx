@@ -6,11 +6,18 @@ import MenuData from '../../stores/data/static/menu.json'
 
 
 const Menu = () => {
-    const [activeIndex, setActiveIndex] = useState(null);
+    const [activeIndex, setActiveIndex] = useState(0);
     const menu = MenuData;
 
     const handleItemClick = (index) => {
         setActiveIndex(index); // Cập nhật mục được chọn
+    };
+
+    const handleKeyDown = (event, index) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault(); // Prevent scrolling on space
+            handleItemClick(index);
+        }
     };
     return (
         <nav className='bg-[#ff6564]'>
@@ -18,10 +25,10 @@ const Menu = () => {
                 <ul className='flex'>
                     {menu.data.map((item, index) => (
                         <li
-                            key={item}
+                            key={item.title}
                             className='group'
                             onClick={() => handleItemClick(index)}
-                            onKeyDown={handleItemClick(index)}
+                            onKeyDown={(event) => handleKeyDown(event, index)}
                         >
                             <Link
                                 to={item.path}
@@ -48,7 +55,7 @@ const Menu = () => {
                                     >
                                         <div className="mx-auto grid grid-cols-4 gap-4">
                                             {item.subMenu.map((sub) => (
-                                                <div key={sub} className="w-full">
+                                                <div key={sub.subTitle} className="w-full">
                                                     <h2 className="text-[16px] font-medium text-[#ff9897] hover:text-black">
                                                         {sub.subTitle}
                                                     </h2>
