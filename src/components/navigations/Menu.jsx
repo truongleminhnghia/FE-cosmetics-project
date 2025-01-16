@@ -51,7 +51,7 @@ const Menu = () => {
                                 item.subMenu && (
                                     <div
                                         className="absolute hidden left-0 right-0 bg-white shadow-lg p-6 rounded-sm 
-                                    group-hover:block h-auto w-full top-10 z-10"
+                                    group-hover:block h-auto w-full top-15 z-10"
                                     >
                                         <div className="mx-auto grid grid-cols-4 gap-4">
                                             {item.subMenu.map((sub) => (

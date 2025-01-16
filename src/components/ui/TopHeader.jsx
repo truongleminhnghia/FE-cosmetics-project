@@ -1,5 +1,6 @@
 import React from 'react'
 import { Icon } from '@iconify/react';
+import { Link } from 'react-router-dom';
 
 const TopHeader = () => {
   return (
@@ -24,8 +25,12 @@ const TopHeader = () => {
 
           {/* Right Section */}
           <div className="flex space-x-4">
-            <p className="text-[12px] text-gray-700 cursor-pointer hover:text-gray-900">Đăng Nhập</p>
-            <p className="text-[12px] text-gray-700 cursor-pointer hover:text-gray-900">Đăng Ký</p>
+            <p className="text-[12px] text-gray-700 cursor-pointer hover:text-gray-900">
+              <Link to={"/login"}>Đăng Nhập</Link>
+            </p>
+            <p className="text-[12px] text-gray-700 cursor-pointer hover:text-gray-900">
+              <Link to={"/register"}>Đăng Nhập</Link>
+            </p>
           </div>
         </div>
       </div>
