@@ -6,6 +6,8 @@ import Product from "./src/pages/product/Product";
 import Promotion from "./src/pages/promotions/Promotion";
 import New from "./src/pages/news/New";
 import HotLine from "./src/pages/hotlines/HotLine";
+import LoginPage from "./src/pages/authentication/LoginPage";
+import RegisterPage from "./src/pages/authentication/RegisterPage";
 
 const router = createBrowserRouter([
     {
@@ -48,14 +50,14 @@ const router = createBrowserRouter([
     //         },
     //     ]
     // },
-    // {
-    //     path: "/login",
-    //     element: <LoginPage />
-    // },
-    // {
-    //     path: "/register",
-    //     element: <RegisterPage />
-    // }
+    {
+        path: "/login",
+        element: <LoginPage />
+    },
+    {
+        path: "/register",
+        element: <RegisterPage />
+    }
 
 ]);
 
